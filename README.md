@@ -1,2 +1,5 @@
 # Test2
 Testing the cloning
+a=int(input("Enter first number: "))
+b=int(input("Enter second number: "))
+print("The sum of the enterd numbers is: ",a+b
